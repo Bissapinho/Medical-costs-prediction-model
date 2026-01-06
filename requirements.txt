@@ -1,0 +1,11 @@
+jupyterlab
+notebook
+ipykernel
+ipywidgets
+pandas
+numpy
+scikit-learn
+matplotlib
+xgboost
+lightgbm
+catboost
