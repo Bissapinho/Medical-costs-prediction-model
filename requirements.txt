@@ -6,6 +6,3 @@ pandas
 numpy
 scikit-learn
 matplotlib
-xgboost
-lightgbm
-catboost
